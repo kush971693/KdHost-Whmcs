@@ -2,14 +2,9 @@ Now you can use this module to reseller our domain service to your client. you c
 Using the API you are able to perform actions such as:
 Upload File Now - 
 1. Cpanel Login
-2. Whmcs Folder - Modules - Registrars - 
-
+2. Whmcs Folder - Modules - Registrars - File Upload
 
 ![domain modile kdhost](https://github.com/user-attachments/assets/1d6e6284-0db8-446c-aace-c50a8747d408)
-
-
-
-
 Register Domain
 Transfer Domain
 Renew Domain

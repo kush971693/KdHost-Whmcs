@@ -1,4 +1,4 @@
-Now you can use this module to reseller our domain service to your client. you can resell domains using the UnivaHost domain reseller platform.Our module allows you to interact with our system programmatically from your own WHMCS.
+Now you can use this module to reseller our domain service to your client. you can reseller domains using the KdHost domain reseller platform. Our module allows you to interact with our system programmatically from your own WHMCS.
 Using the API you are able to perform actions such as:
 
 

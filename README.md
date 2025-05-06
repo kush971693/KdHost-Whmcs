@@ -1,6 +1,8 @@
 Now you can use this module to reseller our domain service to your client. you can reseller domains using the KdHost domain reseller platform. Our module allows you to interact with our system programmatically from your own WHMCS.
 Using the API you are able to perform actions such as:
-
+Upload File Now - 
+1. Cpanel Login
+2. Whmcs Folder - Modules - Registrars - 
 
 
 ![domain modile kdhost](https://github.com/user-attachments/assets/1d6e6284-0db8-446c-aace-c50a8747d408)

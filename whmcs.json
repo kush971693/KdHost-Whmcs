@@ -1,0 +1,12 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "KDHOST",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "KDHOST",
+    "tagline": "",
+    "long": "Cheap Domain Provider"
+  }
+}
